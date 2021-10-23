@@ -1,11 +1,6 @@
 ### Hi there, I'm Vaibhav Parikh  👋
 <h1 align="center">Hey, I'm Vaibhav Parikh</h1>
 
-- 🔭 I just 2 year student
-- 🌱 I’m currently learning Machine Learning
-- 🥅 2020 Goals: More coding less talking
-- ⚡ Fun fact: I love to swimming and play guitar
-- 💬 Ask me about **Data Science, CP , Machine Learning**
 - 📫 How to reach me **parikhvaibhav19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
