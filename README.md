@@ -4,11 +4,11 @@
 - 📫 How to reach me **parikhvaibhav19@gmail.com**
 - I am currently learning MERN stack
 
-- Web: Javascript, Node.js, Express, React, HTML, CSS 
-- Database: SQL(MySQL, POSTGRES), NoSQL(MongoDB, Firebase)
-- Others: .Net, Github
-- Languages: C++, Python, Java
-- Data Science: Python, Tableau
+- [x] Web: Javascript, Node.js, Express, React, HTML, CSS 
+- [x] Database: SQL(MySQL, POSTGRES), NoSQL(MongoDB, Firebase)
+- [x] Others: .Net, Github
+- [x] Languages: C++, Python, Java
+- [x] Data Science: Python, Tableau
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
