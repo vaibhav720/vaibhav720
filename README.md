@@ -4,11 +4,11 @@
 - 📫 How to reach me **parikhvaibhav19@gmail.com**
 - I am currently learning MERN stack
 
-Web: Javascript, Node.js, Express, React, HTML, CSS 
-Database: SQL(MySQL, POSTGRES), NoSQL(MongoDB, Firebase)
-Others: .Net, Github
-Languages: C++, Python, Java
-Data Science: Python, Tableau
+- Web: Javascript, Node.js, Express, React, HTML, CSS 
+- Database: SQL(MySQL, POSTGRES), NoSQL(MongoDB, Firebase)
+- Others: .Net, Github
+- Languages: C++, Python, Java
+- Data Science: Python, Tableau
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,6 @@ target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav720&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaibhav720" /></p>
 
-<p>&nbsp;![Github stats](https://github-readme-stats.vercel.app/api?username=vaibhav720&theme=radical)</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav720&" alt="vaibhav720&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav720&theme=radical" alt="vaibhav720&theme=radical" /></p>
 
