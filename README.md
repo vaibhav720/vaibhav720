@@ -2,13 +2,14 @@
 <h1 align="center">Hey, I'm Vaibhav Parikh</h1>
 
 - 📫 How to reach me **parikhvaibhav19@gmail.com**
-- I am working on MERN stack
+- 👩‍💻 I am working on MERN stack
+- 🚀 Resume <a href="https://drive.google.com/file/d/1VYEic5Jp3DpVUMzpbrXFKO1GKW3_xl3_/view?usp=sharing">link</a>
 
-- [x] Web: Javascript, Node.js, Express, React, HTML, CSS 
-- [x] Database: SQL(MySQL, POSTGRES), NoSQL(MongoDB, Firebase)
-- [x] Others: .Net, Github
-- [x] Languages: C++, Python, Java
-- [x] Data Science: Python, Tableau
+- [x] 🌐 Web: Javascript, Node.js, Express, React, HTML, CSS 
+- [x] 🛒 Database: SQL(MySQL, POSTGRES), NoSQL(MongoDB, Firebase)
+- [x] 👩‍💻 Others: .Net, Github
+- [x] 💻 Languages: C++, Python, Java
+- [x] 📊 Data Science: Python, Tableau
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +22,9 @@ target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-t
 target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" /> </a>  <a href="javascript" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="javascript" /> </a> <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="c" /> </a> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="cplusplus" /> </a> <a href="html"
 target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="html" /> </a>  <a href="javascript" target="_blank"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="javascript" /> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav720&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaibhav720" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav720&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaibhav720" /></p><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitrami-123&show_icons=true&locale=en&theme=radical" alt="Vaibhav720" /></p><br>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav720&theme=radical" alt="vaibhav720&theme=radical" /></p>
