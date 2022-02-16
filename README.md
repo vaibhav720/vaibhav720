@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Vaibhav Parikh</h1>
 
 - 📫 How to reach me **parikhvaibhav19@gmail.com**
-- I am currently learning MERN stack
+- I am working on MERN stack
 
 - [x] Web: Javascript, Node.js, Express, React, HTML, CSS 
 - [x] Database: SQL(MySQL, POSTGRES), NoSQL(MongoDB, Firebase)
