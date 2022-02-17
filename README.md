@@ -24,7 +24,7 @@ target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav720&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaibhav720" /></p><br> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitrami-123&show_icons=true&locale=en&theme=radical" alt="Vaibhav720" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav720&show_icons=true&locale=en&theme=radical" alt="Vaibhav720" /></p><br>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav720&theme=radical" alt="vaibhav720&theme=radical" /></p>
