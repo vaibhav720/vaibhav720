@@ -10,7 +10,7 @@
 - [x] 👩‍💻 Others: .Net, Github
 - [x] 💻 Languages: C++, Python, Java
 - [x] 📊 Data Science: Python, Tableau
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=vaibhav720)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhav-parikh-9b13b61a3/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vaibhav-parikh-9b13b61a3/" /></a>
