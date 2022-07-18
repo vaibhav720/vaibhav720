@@ -38,6 +38,7 @@ target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-
 <br/>
 <br/>
   <a href="https://github.com/vaibhav720">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav720&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav720&theme=radical&langs_count=15&layout=compact&hide_border=true" />
   </a>
+ 
 
