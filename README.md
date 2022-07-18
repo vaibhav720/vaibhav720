@@ -1,6 +1,6 @@
 ### Hi there, I'm Vaibhav Parikh  👋
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Competitive%20programmer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Competitive%20programmer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 - 📫 How to reach me **parikhvaibhav19@gmail.com**
@@ -38,7 +38,6 @@ target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-
 <br/>
 <br/>
   <a href="https://github.com/vaibhav720">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav720&theme=radical&langs_count=15&layout=compact />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav720&theme=radical&langs_count=15&layout=compact" />
   </a>
- 
 
