@@ -28,7 +28,7 @@ target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav720&show_icons=true&locale=en&theme=radical" alt="Vaibhav720" /></p><br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav720&theme=radical" alt="vaibhav720&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav720&theme=radical" alt="vaibhav720" /></p>
 
 <br/>
 <br/>
@@ -38,7 +38,7 @@ target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-
 <br/>
 <br/>
   <a href="https://github.com/vaibhav720">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav720&theme=radical&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav720&theme=radical&langs_count=15&layout=compact />
   </a>
  
 
