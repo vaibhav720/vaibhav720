@@ -40,5 +40,6 @@ target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-
   <a href="https://github.com/vaibhav720">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav720&theme=radical&langs_count=15&layout=compact" />
   </a>
-
+<br/>
+<br/>
 ![](https://komarev.com/ghpvc/?username=vaibhav720&style=for-the-badge)
