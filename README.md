@@ -10,8 +10,7 @@
 - [x] 🌐 Web: Javascript, Node.js, Express, React, HTML, CSS 
 - [x] 🛒 Database: SQL(MySQL, POSTGRES), NoSQL(MongoDB, Firebase)
 - [x] 👩‍💻 Others: .Net, Github
-- [x] 💻 Languages: C++, Python, Java
-- [x] 📊 Data Science: Python, Tableau
+- [x] 💻 Languages: C++, Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
