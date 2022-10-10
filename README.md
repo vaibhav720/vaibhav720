@@ -7,6 +7,10 @@
 - 👩‍💻 I am working on MERN stack
 - 🚀 Resume <a href="https://drive.google.com/file/d/1HbL184oAz8nils52ZcYK0b6DCS1M6_Vn/view?usp=sharing">link</a>
 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 - [x] 🌐 Web: Javascript, Node.js, Express, React, HTML, CSS 
 - [x] 🛒 Database: SQL(MySQL, POSTGRES), NoSQL(MongoDB, Firebase)
 - [x] 👩‍💻 Others: .Net, Github
