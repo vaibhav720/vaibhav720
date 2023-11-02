@@ -8,7 +8,7 @@
 - 🚀 Resume <a href="https://drive.google.com/file/d/1HbL184oAz8nils52ZcYK0b6DCS1M6_Vn/view?usp=sharing">link</a>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 - [x] 🌐 Web: Javascript, Node.js, Express, React, HTML, CSS 
@@ -28,23 +28,6 @@ target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="c" /> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav720&show_icons=true&locale=en&theme=radical" alt="Vaibhav720" /></p><br>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav720&theme=radical" alt="vaibhav720" /></p>
-
-<br/>
-<br/>
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vaibhav720&theme=react-dark&hide_border=true&area=true)
-
-<br/>
-<br/>
-  <a href="https://github.com/vaibhav720">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav720&theme=radical&langs_count=15&layout=compact" />
-  </a>
-<br/>
 
 
   ![](https://komarev.com/ghpvc/?username=vaibhav720&style=for-the-badge)
